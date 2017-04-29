@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1418596294 source:e:\software engineering\level two\pl2\strategy game\strategy game\main.cpp
+	<iostream>
+	"windows.h"
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<stdio.h>
+	"teams.h"
+	"TeamA.h"
+	"TeamB.h"
+	"weapons.h"
+	"TeamAweapons.h"
+	"TeamBweapons.h"
+
+1418589785 e:\software engineering\level two\pl2\strategy game\strategy game\teams.h
+	<iostream>
+	<string>
+	<fstream>
+
+1418589786 e:\software engineering\level two\pl2\strategy game\strategy game\teama.h
+	"teams.h"
+
+1418589786 e:\software engineering\level two\pl2\strategy game\strategy game\teamb.h
+	"teams.h"
+
+1418331848 e:\software engineering\level two\pl2\strategy game\strategy game\weapons.h
+
+1418331848 e:\software engineering\level two\pl2\strategy game\strategy game\teamaweapons.h
+	"weapons.h"
+
+1418595020 e:\software engineering\level two\pl2\strategy game\strategy game\teambweapons.h
+	"weapons.h"
+
+1418589800 source:e:\software engineering\level two\pl2\strategy game\strategy game\teama.cpp
+	"TeamA.h"
+	"teams.h"
+
+1418331863 source:e:\software engineering\level two\pl2\strategy game\strategy game\teamaweapons.cpp
+	"TeamAweapons.h"
+	"weapons.h"
+
+1418589800 source:e:\software engineering\level two\pl2\strategy game\strategy game\teamb.cpp
+	"TeamB.h"
+	"teams.h"
+
+1418331972 source:e:\software engineering\level two\pl2\strategy game\strategy game\teambweapons.cpp
+	"TeamBweapons.h"
+	"weapons.h"
+
+1418588045 source:e:\software engineering\level two\pl2\strategy game\strategy game\teams.cpp
+	"teams.h"
+	<iostream>
+	"windows.h"
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+
+1418331847 source:e:\software engineering\level two\pl2\strategy game\strategy game\weapons.cpp
+	"weapons.h"
+
+1418596294 source:e:\software engineering\projects\strategy game\main.cpp
+	<iostream>
+	"windows.h"
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<stdio.h>
+	"teams.h"
+	"TeamA.h"
+	"TeamB.h"
+	"weapons.h"
+	"TeamAweapons.h"
+	"TeamBweapons.h"
+
+1418589785 e:\software engineering\projects\strategy game\teams.h
+	<iostream>
+	<string>
+	<fstream>
+
+1418589786 e:\software engineering\projects\strategy game\teama.h
+	"teams.h"
+
+1418589786 e:\software engineering\projects\strategy game\teamb.h
+	"teams.h"
+
+1418331848 e:\software engineering\projects\strategy game\weapons.h
+
+1418331848 e:\software engineering\projects\strategy game\teamaweapons.h
+	"weapons.h"
+
+1418595020 e:\software engineering\projects\strategy game\teambweapons.h
+	"weapons.h"
+
+1418589800 source:e:\software engineering\projects\strategy game\teama.cpp
+	"TeamA.h"
+	"teams.h"
+
+1418331863 source:e:\software engineering\projects\strategy game\teamaweapons.cpp
+	"TeamAweapons.h"
+	"weapons.h"
+
+1418589800 source:e:\software engineering\projects\strategy game\teamb.cpp
+	"TeamB.h"
+	"teams.h"
+
+1418331972 source:e:\software engineering\projects\strategy game\teambweapons.cpp
+	"TeamBweapons.h"
+	"weapons.h"
+
+1418588045 source:e:\software engineering\projects\strategy game\teams.cpp
+	"teams.h"
+	<iostream>
+	"windows.h"
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+
+1418331847 source:e:\software engineering\projects\strategy game\weapons.cpp
+	"weapons.h"
+
